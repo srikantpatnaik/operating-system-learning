@@ -1,3 +1,8 @@
+General 
+-------
+
+``c-revisit.rst`` will change based on my findings. 
+
 Kernel coding style
 -------------------
 
