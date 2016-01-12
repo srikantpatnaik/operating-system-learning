@@ -1,5 +1,5 @@
-Resources
----------
+Resources for CS347@IITB
+------------------------
 
 #. http://www.cse.iitb.ac.in/~cs347/    (Look for the Lecture Notes)
 
